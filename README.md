@@ -10,6 +10,7 @@ Slim-Skeleton https://www.slimframework.com/
 Steps to run it.
 
 Check out the repo 
+
 php composer-setup.php
 php -r "unlink('composer-setup.php');"
 
