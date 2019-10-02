@@ -1,7 +1,7 @@
 # UrlShortener
-Url Shortener (Goo.gl and Bit.ly) 
+Url Shortener (Bit.ly) 
 
-A url shortener project for Goo.gl and Bit.ly written in PHP7.0 with Slim framework.
+A url shortener project for Bit.ly written in PHP7.0 with Slim framework.
 
 Prerequesites 
 Xampp (PHP7.+)
